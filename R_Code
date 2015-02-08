@@ -1,2 +1,2 @@
 x <- read.csv2("house.txt", header = TRUE, sep = ";")
-data <- subset(x,Date == "1/2/2007",Date == "2/2/2007")
+data <- subset(x,Date == "1/2/2007" | Date == "2/2/2007")
