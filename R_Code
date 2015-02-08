@@ -4,5 +4,4 @@ for( i in 1:2880){
   temp <- levels(droplevels(z[i]))
   a[i] <- as.numeric(temp)
 }
- hist(as.numeric(a),xlab="Global Active Power (Kilowats)",main="Global Active Power")
-
+hist(as.numeric(a),xlab="Global Active Power (Kilowats)",main="Global Active Power")
