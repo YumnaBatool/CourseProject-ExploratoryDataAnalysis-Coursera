@@ -18,3 +18,9 @@ PLOT 3:
 https://cloud.githubusercontent.com/assets/8918225/6102448/52177f14-b058-11e4-915d-d36fe537e93a.png
 
 https://github.com/YumnaBatool/CourseProject-ExploratoryDataAnalysis-Coursera/issues/5
+
+PLOT 4:
+
+https://cloud.githubusercontent.com/assets/8918225/6102577/d72ae59a-b05a-11e4-8346-3026fca3cd55.png
+
+https://github.com/YumnaBatool/CourseProject-ExploratoryDataAnalysis-Coursera/issues/7
